@@ -1,0 +1,12 @@
+line_length: 160
+
+disabled_rules:
+  - identifier_name
+  - xctfail_message
+  - type_name
+
+vertical_whitespace:
+  max_empty_lines: 2
+
+excluded:
+  - Pods

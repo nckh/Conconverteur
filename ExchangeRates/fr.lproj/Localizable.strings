@@ -1,0 +1,15 @@
+/* API error */
+"%@\nCode: %d" = "%1$@\nCode: %2$d";
+
+/* Unknown error with data from API */
+"An unknown error happened." = "Une erreur inconnue est survenue.";
+
+/* API response parsing error */
+"Could not decode response from API." = "Echec lors du décodage de la réponse de l'API.";
+
+/* Loading error when calling API */
+"Could not fetch rates from API.\n%@" = "Echec lors du téléchargement des taux de change depuis l'API.\n%@";
+
+/* Local file loading error */
+"Could not find payload file in bundle." = "Fichier introuvable dans le bundle.";
+
